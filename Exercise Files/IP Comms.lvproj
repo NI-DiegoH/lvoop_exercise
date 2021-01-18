@@ -22,6 +22,13 @@
 				<Item Name="Network Endpoint A.vi" Type="VI" URL="../Tests/Network/Network Endpoint A.vi"/>
 				<Item Name="Network Endpoint B.vi" Type="VI" URL="../Tests/Network/Network Endpoint B.vi"/>
 			</Item>
+			<Item Name="Classes Test" Type="Folder">
+				<Item Name="Local" Type="Folder">
+					<Item Name="Local Endpoint B2.vi" Type="VI" URL="../Tests/Clases/Local/Local Endpoint B2.vi"/>
+					<Item Name="Local Endpoint A2.vi" Type="VI" URL="../Tests/Clases/Local/Local Endpoint A2.vi"/>
+				</Item>
+				<Item Name="network" Type="Folder"/>
+			</Item>
 		</Item>
 		<Item Name="Communication VIs.lvlib" Type="Library" URL="../Communication VIs/Communication VIs.lvlib"/>
 		<Item Name="Communication Classes.lvlib" Type="Library" URL="../Communication/Communication Classes.lvlib"/>
